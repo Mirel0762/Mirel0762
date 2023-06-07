@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mirel0762
 - 👀 I’m interested in programming, video games, music, travel.
-- 🌱 I’m currently learning C/C++,PHP,JavaScript,DataBases.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C/C++,PHP,JavaScript,DataBases,Angular.
 - 📫 How to reach me dumitrumirel411@gmail.com
 
 <!---
