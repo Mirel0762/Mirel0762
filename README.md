@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirel
+- 👋 Hi, I’m Mirel
 - 👀 I’m interested in programming, video games, music, travel.
 - 🌱 I’m currently learning C/C++,PHP,JavaScript,DataBases,Angular.
 - 📫 How to reach me dumitrumirel411@gmail.com
